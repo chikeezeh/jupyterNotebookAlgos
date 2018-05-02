@@ -4,3 +4,4 @@
 2. isSubsequence
 3. Count Occurence
 4. Sorted Array Rotation
+5. Insertion Sorted
