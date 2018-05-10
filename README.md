@@ -6,3 +6,4 @@
 4. Sorted Array Rotation
 5. Insertion Sorted.
 6. Bubble Sort.
+7. Max Profit
