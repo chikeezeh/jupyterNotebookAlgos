@@ -7,3 +7,5 @@
 5. Insertion Sorted.
 6. Bubble Sort.
 7. Max Profit
+8. Linked List
+
