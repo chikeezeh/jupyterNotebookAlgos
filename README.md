@@ -8,4 +8,6 @@
 6. Bubble Sort.
 7. Max Profit
 8. Linked List
+9. Binary Trees Traversal
+
 
